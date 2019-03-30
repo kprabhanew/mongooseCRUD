@@ -1,0 +1,6 @@
+# ignore a single file
+index.js,
+package-lock.json
+
+# ignore an entire directory
+/node_modules/
